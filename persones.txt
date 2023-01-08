@@ -1,0 +1,10 @@
+Andreu,Ballestero Llenas,34835767J
+Miquel,Bayona Font,48743957B
+Guillem,Capdevila Riu,33957834J 
+Albert,Carbonell Ferrer,77364986R
+Ferran,Casas Coderch,23047848P
+Maria,Casellas Fuste,47102244S
+Genis,Ciutat Vendrell,39718459N
+Josep,Gonzalez Feliu,38972568H
+Victoria,Font Claret,89654258G
+Francesc,LLopis Bertran,48569789M
